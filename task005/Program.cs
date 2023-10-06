@@ -5,7 +5,7 @@
 2 - > "-2, -1, 0, 1, 2"
 */
 
-Console.WriteLine("Введите число");
+Console.Write("Введите число");
 
 int n = int.Parse(Console.ReadLine());
 
@@ -13,7 +13,7 @@ int count = -n;
 
 while (count < n+1)
 {
-    Console.WriteLine(count + " ");
+    Console.Write(count + " ");
     count ++;
 }
 

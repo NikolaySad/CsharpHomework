@@ -1,0 +1,15 @@
+C:\Users\Коленька\Desktop\seminar\task007\bin\Debug\net6.0\task007.exe
+C:\Users\Коленька\Desktop\seminar\task007\bin\Debug\net6.0\task007.deps.json
+C:\Users\Коленька\Desktop\seminar\task007\bin\Debug\net6.0\task007.runtimeconfig.json
+C:\Users\Коленька\Desktop\seminar\task007\bin\Debug\net6.0\task007.dll
+C:\Users\Коленька\Desktop\seminar\task007\bin\Debug\net6.0\task007.pdb
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.csproj.AssemblyReference.cache
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.AssemblyInfoInputs.cache
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.AssemblyInfo.cs
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.csproj.CoreCompileInputs.cache
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.dll
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\refint\task007.dll
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.pdb
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\task007.genruntimeconfig.cache
+C:\Users\Коленька\Desktop\seminar\task007\obj\Debug\net6.0\ref\task007.dll

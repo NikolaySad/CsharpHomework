@@ -6,7 +6,7 @@
 */
 
 System.Console.WriteLine("Введите номер: ");
-int n = Convert.ToInt32(Console.ReadLine());
+int n = onvert.ToInt32(Console.ReadLine());
 
 if(n<1 | n>7)
 {

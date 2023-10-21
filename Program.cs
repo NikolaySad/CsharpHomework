@@ -1,16 +1,23 @@
-﻿﻿/* Напишите программу, которая выводит случайное трёхзначное число и удаляет
-вторую цифру этого числа.
-Например: 456 -> 46,  782 -> 72,  918 -> 98
+﻿﻿/*  33. Задайте массив. Напишите программу, которая определяет, 
+присутствует ли заданное число в массиве.
+4; массив [6, 7, 19, 345, 3] -> нет
+-3; массив [6, 7, 19, 345, 3] -> да
 */
 
-Ranom ranom == new Random();
-int number = random.Next(100, 1000);
-Console.WriteLine(number);
+System.Console.WriteLine("Укажите массив, каждый элемент которого указан через запятую");
 
-int first = number / 100;
-int last = number % 10;
-int result = first * 10 + last;
+ string massive = System.Console.ReadLine(); 
+   
+int size - 1;
 
-int result = first * 10 + last;
+foreach(char a in massive)
+    if (a== ',') size++;
 
-Console.WriteLine(result);
+int[] newArray = int[size];
+
+for(int i = 0; i < newArray.Length; i ++)
+{
+    string number = "";
+
+    for(int j =0; j < massive.Length; j++)
+}

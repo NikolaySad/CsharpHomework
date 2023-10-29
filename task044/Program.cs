@@ -21,8 +21,6 @@ void Fibonachi(int numb)
             System.Console.Write(fibonachi[i] + " ");
         }
     }
-
-
 }
 
 Fibonachi(5);

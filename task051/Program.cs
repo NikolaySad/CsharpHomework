@@ -41,7 +41,7 @@ int[,] Sqare2DEven(int[,] arr1)
 
 
 
-int[,] user2DArray = Get2DArray(3,3);
+int[,] user2DArray = Get2DArray(4,4);
 Print2DArray(user2DArray);
 int[,] u2DArray = Sqare2DEven(user2DArray);
 System.Console.WriteLine();
